@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b257bf3a5bd29d34aaf07b37abcced5f, type: 3}
+    - {fileID: 2800000, guid: c4cdc98bc6aafc142b6699c921e32945, type: 3}
+    - {fileID: 2800000, guid: e63f3b8098494384fb609f5099310d29, type: 3}
+    - {fileID: 2800000, guid: f15315495b8101146b5127cd0173d544, type: 3}
+    - {fileID: 2800000, guid: 71a5870ba47a8ff47a3a2fb751c15564, type: 3}
+    - {fileID: 2800000, guid: 0028e5f30b30d7a428c70f0ba5ceb76e, type: 3}
+    - {fileID: 2800000, guid: 4f731e24367f9774c91bb75edb7f3e26, type: 3}
+    - {fileID: 2800000, guid: dc544c85145007e42af973eed2d57696, type: 3}
+    - {fileID: 2800000, guid: 958078247b2cbe144949d71343f366e3, type: 3}
+    - {fileID: 2800000, guid: 887e10596460f0a4abba3654dba3a98a, type: 3}
+    - {fileID: 2800000, guid: 717e1ff3d511be040ad3872c7f08880b, type: 3}
+    - {fileID: 2800000, guid: d1000c40b43792e4ab4bd369b3a07fdb, type: 3}
+    - {fileID: 2800000, guid: 82b93568fa0c4044f89e1c9216e50080, type: 3}
+    - {fileID: 2800000, guid: 1a95cb112de622948ad8deeb3cceb9f2, type: 3}
+    - {fileID: 2800000, guid: ce61a8d9624500442bf6a746746e10d4, type: 3}
+    - {fileID: 2800000, guid: a7d5655ed22b5d74a9f7adc074fc9c31, type: 3}
+    - {fileID: 2800000, guid: ddb0debf2f626794ab730930d458126e, type: 3}
+    - {fileID: 2800000, guid: 66df12f4e89a18c4db59c25452163cbd, type: 3}
+    - {fileID: 2800000, guid: 51e1eabe670ea6546841e1a7b8cb31c7, type: 3}
+    - {fileID: 2800000, guid: 542b6326aed391b4ab773c5149c7a296, type: 3}
+    - {fileID: 2800000, guid: 1b2fecafe7515704bbe2525a59be73e2, type: 3}
+    - {fileID: 2800000, guid: 2402c42c9b3cf014fa6e472977692242, type: 3}
+    - {fileID: 2800000, guid: 81ab16321f50b8f4f8a9f4d3342e7aa5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d1000c40b43792e4ab4bd369b3a07fdb, type: 3}
+  - {fileID: 21300000, guid: e63f3b8098494384fb609f5099310d29, type: 3}
+  - {fileID: 21300000, guid: 1a95cb112de622948ad8deeb3cceb9f2, type: 3}
+  - {fileID: 21300000, guid: 81ab16321f50b8f4f8a9f4d3342e7aa5, type: 3}
+  - {fileID: 21300000, guid: 0028e5f30b30d7a428c70f0ba5ceb76e, type: 3}
+  - {fileID: 21300000, guid: 717e1ff3d511be040ad3872c7f08880b, type: 3}
+  - {fileID: 21300000, guid: 958078247b2cbe144949d71343f366e3, type: 3}
+  - {fileID: 21300000, guid: 4f731e24367f9774c91bb75edb7f3e26, type: 3}
+  - {fileID: 21300000, guid: 66df12f4e89a18c4db59c25452163cbd, type: 3}
+  - {fileID: 21300000, guid: dc544c85145007e42af973eed2d57696, type: 3}
+  - {fileID: 21300000, guid: 542b6326aed391b4ab773c5149c7a296, type: 3}
+  - {fileID: 21300000, guid: 82b93568fa0c4044f89e1c9216e50080, type: 3}
+  - {fileID: 21300000, guid: f15315495b8101146b5127cd0173d544, type: 3}
+  - {fileID: 444721573230226807, guid: 887e10596460f0a4abba3654dba3a98a, type: 3}
+  - {fileID: 8829137682732743608, guid: 887e10596460f0a4abba3654dba3a98a, type: 3}
+  - {fileID: 7238613290510161216, guid: 887e10596460f0a4abba3654dba3a98a, type: 3}
+  - {fileID: -8911281266173641477, guid: 887e10596460f0a4abba3654dba3a98a, type: 3}
+  - {fileID: -5255233134296458919, guid: 887e10596460f0a4abba3654dba3a98a, type: 3}
+  - {fileID: -6857666544994944739, guid: 887e10596460f0a4abba3654dba3a98a, type: 3}
+  - {fileID: 21300000, guid: ce61a8d9624500442bf6a746746e10d4, type: 3}
+  - {fileID: 21300000, guid: b257bf3a5bd29d34aaf07b37abcced5f, type: 3}
+  - {fileID: 21300000, guid: 71a5870ba47a8ff47a3a2fb751c15564, type: 3}
+  - {fileID: 21300000, guid: c4cdc98bc6aafc142b6699c921e32945, type: 3}
+  - {fileID: 21300000, guid: 2402c42c9b3cf014fa6e472977692242, type: 3}
+  - {fileID: 21300000, guid: a7d5655ed22b5d74a9f7adc074fc9c31, type: 3}
+  - {fileID: 21300000, guid: 51e1eabe670ea6546841e1a7b8cb31c7, type: 3}
+  - {fileID: 21300000, guid: 1b2fecafe7515704bbe2525a59be73e2, type: 3}
+  - {fileID: 21300000, guid: ddb0debf2f626794ab730930d458126e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Rectangle Alarm
+  - Background
+  - Rectangle Melody
+  - ShadowRect
+  - Choice
+  - Pick
+  - Layers2
+  - DownArrow
+  - Selection3
+  - Layers1
+  - Underscores
+  - Rectangle Days
+  - Button
+  - List_2
+  - List_3
+  - List_0
+  - List_1
+  - List_4
+  - List_5
+  - Rectangle Tasks
+  - Alarm2
+  - ButtonTasks
+  - AlarmBack
+  - Shadow
+  - Selection
+  - Selection4
+  - UpArrow
+  - Selection2
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
